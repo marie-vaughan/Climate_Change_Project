@@ -1,0 +1,8 @@
+2025-11-11 17:18:03,217 [INFO] Loaded 4000 train, 500 val samples.
+2025-11-11 17:18:05,437 [WARNING] Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-11 17:33:37,235 [INFO] Loaded 4000 train, 500 val samples.
+2025-11-11 17:37:18,295 [INFO] Loaded 4000 train, 500 val samples.
+2025-11-11 17:38:11,449 [INFO] Starting emissions tracker...
+2025-11-11 17:38:16,632 [INFO] Training completed. Total emissions: 0.0000 kg CO2eq
+2025-11-11 17:43:12,512 [INFO] Loaded 4000 train, 500 val samples.
+2025-11-11 17:43:54,846 [INFO] Starting emissions tracker...

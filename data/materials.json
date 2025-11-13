@@ -1,0 +1,5 @@
+{
+  "cotton": {"kgco2_per_kg": 5.0},
+  "polyester": {"kgco2_per_kg": 9.0},
+  "viscose": {"kgco2_per_kg": 6.0}
+}

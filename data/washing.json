@@ -1,0 +1,9 @@
+{
+  "wash_cold": {"kgco2_per_wash": 0.2},
+  "wash_warm": {"kgco2_per_wash": 0.5},
+  "tumble_dry": {"kgco2_per_cycle": 1.5},
+  "line_dry": {"kgco2_per_cycle": 0.0},
+  "dry_clean_green": {"kgco2_per_cycle": 0.4},
+  "dry_clean_conventional": {"kgco2_per_cycle": 2.0},
+  "default_washes_life": 52
+}

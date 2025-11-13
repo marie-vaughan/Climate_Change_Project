@@ -1,0 +1,5 @@
+{
+  "ship": {"kgco2_per_tkm": 0.01},
+  "air": {"kgco2_per_tkm": 0.6},
+  "truck": {"kgco2_per_tkm": 0.08}
+}

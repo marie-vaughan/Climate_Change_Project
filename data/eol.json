@@ -1,0 +1,4 @@
+{
+  "landfill": {"kgco2_per_unit": 0.1},
+  "recycle": {"kgco2_per_unit": 0.05}
+}

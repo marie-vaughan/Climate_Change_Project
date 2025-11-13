@@ -1,0 +1,4 @@
+{
+  "reactive_dye": {"kgco2_per_kg": 1.0},
+  "print": {"kgco2_per_kg": 0.5}
+}
