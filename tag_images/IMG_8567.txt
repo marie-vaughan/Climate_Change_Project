@@ -1,0 +1,3 @@
+COUNTRY: China
+MATERIAL: 80% Silk, 20% Nylon
+CARE: not visible
