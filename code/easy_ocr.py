@@ -2,7 +2,7 @@ import easyocr
 import cv2
 
 # Load and resize image
-img = cv2.imread('tag_images/tag_6.JPG')
+img = cv2.imread('tag_images_cropped/IMG_8539 2.JPG')
 
 # Resize to a more reasonable size (maintaining aspect ratio)
 max_dimension = 1920

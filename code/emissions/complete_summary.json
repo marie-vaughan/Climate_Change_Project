@@ -1,0 +1,46 @@
+{
+  "generated_at": "2025-11-25T20:24:10.469138",
+  "total_emissions_kg_co2": 0.00017641939739587606,
+  "total_energy_kwh": 0.0003714092576755285,
+  "total_duration_seconds": 179.147623,
+  "steps": [
+    {
+      "step": "synthetic_generation",
+      "timestamp": "2025-11-25T20:21:02.310856",
+      "duration_seconds": 133.388002,
+      "num_images": 500,
+      "emissions_kg_co2": 0.00013192547818220528,
+      "emissions_per_image_g_co2": 0.00026385095636441056,
+      "energy_consumed_kwh": 0.0002777378488046427
+    },
+    {
+      "step": "dataset_split",
+      "timestamp": "2025-11-25T20:24:04.262334",
+      "duration_seconds": 5.784829,
+      "total_images": 3000,
+      "train_images": 2100,
+      "val_images": 450,
+      "test_images": 450,
+      "emissions_kg_co2": 3.938010905668419e-06,
+      "emissions_per_image_g_co2": 1.312670301889473e-06,
+      "energy_consumed_kwh": 8.290549275091409e-06
+    },
+    {
+      "step": "augmentation",
+      "timestamp": "2025-11-25T20:23:21.566667",
+      "duration_seconds": 39.974792,
+      "input_images": 500,
+      "output_images": 3000,
+      "augmentations_per_image": 5,
+      "emissions_kg_co2": 4.0555908308002346e-05,
+      "emissions_per_image_g_co2": 1.3518636102667449e-05,
+      "energy_consumed_kwh": 8.538085959579442e-05
+    }
+  ],
+  "equivalents": {
+    "miles_driven": 0.0004410484934896902,
+    "trees_needed_yearly": 1.0585163843752563e-05,
+    "smartphone_charges": 0.02117032768750513,
+    "led_bulb_hours": 0.037140925767552846
+  }
+}

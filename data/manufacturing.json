@@ -1,6 +1,14 @@
 {
-  "china": {"kgco2_per_unit": 1.5},
-  "turkey": {"kgco2_per_unit": 1.0},
-  "usa": {"kgco2_per_unit": 0.8},
-  "_default": {"kgco2_per_unit": 1.2}
+    "bangladesh": {"kgco2_per_kg": 0.60},
+    "cambodia": {"kgco2_per_kg": 0.55},
+    "canada": {"kgco2_per_kg": 0.10},  
+    "china": {"kgco2_per_kg": 0.50},
+    "guatemala": {"kgco2_per_kg": 0.15},
+    "india": {"kgco2_per_kg": 0.55},
+    "nicaragua": {"kgco2_per_kg": 0.15},
+    "peru": {"kgco2_per_kg": 0.20},
+    "philippines": {"kgco2_per_kg": 0.45},
+    "turkey": {"kgco2_per_kg": 0.30},
+    "usa": {"kgco2_per_kg": 0.05},    
+    "vietnam": {"kgco2_per_kg": 0.45}
 }

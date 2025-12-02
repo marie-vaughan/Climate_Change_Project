@@ -1,9 +1,24 @@
 {
-  "wash_cold": {"kgco2_per_wash": 0.2},
-  "wash_warm": {"kgco2_per_wash": 0.5},
-  "tumble_dry": {"kgco2_per_cycle": 1.5},
-  "line_dry": {"kgco2_per_cycle": 0.0},
-  "dry_clean_green": {"kgco2_per_cycle": 0.4},
-  "dry_clean_conventional": {"kgco2_per_cycle": 2.0},
+  "machine_wash_cold": {"kgco2_per_use": 0.10},   
+  "machine_wash_warm": {"kgco2_per_use": 0.60},
+  "machine_wash_hot": {"kgco2_per_use": 0.90},
+  "machine_wash_gentle": {"kgco2_per_use": 0.10}, 
+  "hand_wash_cold": {"kgco2_per_use": 0.05},     
+  "hand_wash_warm": {"kgco2_per_use": 0.20},
+
+  "tumble_dry_low": {"kgco2_per_use": 1.80},      
+  "tumble_dry_medium": {"kgco2_per_use": 2.60},
+  "tumble_dry_high": {"kgco2_per_use": 3.00},
+  "lay_flat_to_dry": {"kgco2_per_use": 0.00},
+  "line_dry": {"kgco2_per_use": 0.00},
+  "do_not_tumble_dry": {"kgco2_per_use": 0.00},
+
+  "iron_low": {"kgco2_per_use": 0.05},
+  "iron_medium": {"kgco2_per_use": 0.10},
+  "iron_high": {"kgco2_per_use": 0.15},
+  "do_not_iron": {"kgco2_per_use": 0.00},
+
+  "dry_clean": {"kgco2_per_use": 0.40},         
+  "dry_clean_only": {"kgco2_per_use": 0.40},
   "default_washes_life": 52
 }

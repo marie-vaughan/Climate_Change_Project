@@ -1,0 +1,11 @@
+{
+  "step": "augmentation",
+  "timestamp": "2025-11-25T20:23:21.566667",
+  "duration_seconds": 39.974792,
+  "input_images": 500,
+  "output_images": 3000,
+  "augmentations_per_image": 5,
+  "emissions_kg_co2": 4.0555908308002346e-05,
+  "emissions_per_image_g_co2": 1.3518636102667449e-05,
+  "energy_consumed_kwh": 8.538085959579442e-05
+}

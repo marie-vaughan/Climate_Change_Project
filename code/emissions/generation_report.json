@@ -1,0 +1,9 @@
+{
+  "step": "synthetic_generation",
+  "timestamp": "2025-11-25T20:21:02.310856",
+  "duration_seconds": 133.388002,
+  "num_images": 500,
+  "emissions_kg_co2": 0.00013192547818220528,
+  "emissions_per_image_g_co2": 0.00026385095636441056,
+  "energy_consumed_kwh": 0.0002777378488046427
+}

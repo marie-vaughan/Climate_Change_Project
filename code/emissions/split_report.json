@@ -1,0 +1,12 @@
+{
+  "step": "dataset_split",
+  "timestamp": "2025-11-25T20:24:04.262334",
+  "duration_seconds": 5.784829,
+  "total_images": 3000,
+  "train_images": 2100,
+  "val_images": 450,
+  "test_images": 450,
+  "emissions_kg_co2": 3.938010905668419e-06,
+  "emissions_per_image_g_co2": 1.312670301889473e-06,
+  "energy_consumed_kwh": 8.290549275091409e-06
+}

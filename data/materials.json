@@ -1,5 +1,18 @@
 {
-  "cotton": {"kgco2_per_kg": 5.0},
-  "polyester": {"kgco2_per_kg": 9.0},
-  "viscose": {"kgco2_per_kg": 6.0}
+  "acrylic": {"kgco2_per_kg": 13.0},
+  "cashmere": {"kgco2_per_kg": 150.0},   
+  "cotton": {"kgco2_per_kg": 5.0},       
+  "organic cotton": {"kgco2_per_kg": 2.5},
+  "elastane": {"kgco2_per_kg": 30.0},   
+  "modal": {"kgco2_per_kg": 6.0},
+  "merino": {"kgco2_per_kg": 25.0},
+  "nylon": {"kgco2_per_kg": 15.0},
+  "pima cotton": {"kgco2_per_kg": 5.5},
+  "polyamide": {"kgco2_per_kg": 15.0},  
+  "polyester": {"kgco2_per_kg": 9.5},
+  "recycled polyester": {"kgco2_per_kg": 3.0},
+  "spandex": {"kgco2_per_kg": 30.0},
+  "tencel": {"kgco2_per_kg": 4.0},       
+  "viscose": {"kgco2_per_kg": 6.0},
+  "wool": {"kgco2_per_kg": 20.0}
 }

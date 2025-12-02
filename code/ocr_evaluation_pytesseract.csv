@@ -1,0 +1,1129 @@
+image,image_source,ocr_method,country_pred,country_true,country_exact,country_fuzzy,country_status,material_pred,material_true,material_exact,material_fuzzy,material_status,care_pred,care_true,care_exact,care_fuzzy,care_status,ocr_confidence,full_text,error_score
+IMG_8702.JPG,cropped,original,Cambodia,cambodia,True,1.0,exact_match,"72% NYLON 28% SPANDEX
+FRONT 88% NYLON 12% SPANDEX
+BACK 72% NYLON 28% SPANDEX
+
+REMOVE","72% nylon, 28% spandex",False,0.4,mismatch,WASHING MACHINE WASH COLD SEPARATELY GENTLE CYCLE ONLY NON-CHLORINE BLEACH IF NEEDED TUMBLE DRY LOW COOLIRON IF NEEDED,remove pads before washing. machine wash cold separately. gentle cycle only non-chlorine bleach if needed. tumble dry low. remove promptly. cool iron if needed,False,0.851985559566787,partial_match,94.08510638297872,"Made in Cambodia
+Hecho en Camboya
+
+BODY:
+72% NYLON /
+28% SPANDEX
+FRONT LINING:
+88% NYLON /
+12% SPANDEX
+BACK LINING:
+72% NYLON /
+28% SPANDEX
+
+REMOVE PADS
+BEFORE WASHING
+MACHINE WASH
+COLD SEPARATELY
+GENTLE CYCLE
+ONLY
+NON-CHLORINE
+BLEACH IF NEEDED
+TUMBLE DRY LOW
+COOLIRON IF
+NEEDED
+",0.748014440433213
+tag_6.JPG,original,preprocessed,,India,False,0.0,prediction_failed,,100% Cotton,False,0.0,prediction_failed,,"machine wash cold with like colors, non-chlorine bleach only, tumble dry low, iron on lowest setting",False,0.0,prediction_failed,31.545893719806763,"ee .yt
+vps
+""ety ‘ fens ‘ i
+Oy wh Nyt : { key { He
+i AERA vey
+(EEE nh Sel vg
+ety OM, po
+SR
+Sey aete ee SO
+
+ates cit:
+oery
+
+“6
+abe an
+é AE i este :
+eee aes ‘ ri
+rm ad a: ied eal) s.
+Sere Set Pee EL
+
+Se ERER Sei tr gel Te , y-
+i 17 4t i
+Ne rvesrctec) dry
+Pid ta PAA wey
+t tr 4 ,
+4
+
+feere 1 . “ vee: !
+
+ANE EE en seteah A, eng Wes; eee fas RRR ae ay
+Pn gy ; ACS iy ange eine Fa quays °
+
+Alaa vai NSS a tae HAS i Ps '
+
+J iti? beet! et eT ‘
+or ts AS Mase cee AVERT ea ees —
+AK PS ""6 x 3 Popa cake 4s aa :
+taeda FASS) q4 Qay: {: @! ro a henry ‘ ; :
+Ps A aan toa . ‘ *
+
+ee tpTsd a - seeye ecg tak Ly ;
+
+$ yore 1? a Wy Years tie. mat ‘
+CEES thes ah wed g ats *
+
+",3.0
+tag_4.JPG,original,preprocessed,,Guatemala,False,0.0,prediction_failed,,100% Cotton,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8700.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"91% RECYCLED POLYESTER 9% SPANDEX
+MACHINE","91% recycled polyester, 9% spandex",False,0.88,partial_match,MACHINE WASH COLD WITH LIKE COLORS. GENTLE CYCLE. ONLY NON CHLORINE BLEACH IF NEEDED. TUMBLE DRY LOW. REMOVE PROMPTLY. COOL IRON IF NEEDED. DO NOT IRON ON LABEL. RN17730 VN1068795,machine wash cold with like colors. gentle cycle. only non-chlorine bleach if needed. tumble dry low. remove promptly. iron cool if needed. do not iron on label,False,0.9085545722713865,near_match,90.44444444444444,"91% RECYCLED POLYESTER / 9% SPANDEX
+MACHINE WASH COLD WITH LIKE COLORS. GENTLE
+CYCLE. ONLY NON CHLORINE BLEACH IF NEEDED.
+TUMBLE DRY LOW. REMOVE PROMPTLY.
+
+COOL IRON IF NEEDED. DO NOT IRON ON LABEL.
+RN17730 VN1068795
+",1.2114454277286137
+IMG_8714.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"100% NYLON
+
+LINING 100% RECYCLED POLYESTER 100% RECYCLED POLYESTER","100% nylon, 100% recycled polyester",False,0.68,mismatch,MACHINE WASH COLD WITH LIKE COLORS. GENTLE CYCLE. ONLY NON-CHLORINE BLEACH IF NEEDED. _ TUMBLE DRY LOW. REMOVE PROMPTLY. DO NOT IRON. | DO NOT DRY CLEAN. 2,machine wash cold with like colors. gentle cycle. only non-chlorine bleach if needed. tumble dry low. remove promptly. do not iron. do not dry clean.,False,0.976897689768977,near_match,88.5952380952381,"SHELL: 100% NYLON
+
+LINING: 100% RECYCLED POLYESTER
+
+FILLING: 100% RECYCLED POLYESTER
+
+MACHINE WASH COLD WITH LIKE COLORS. GENTLE
+CYCLE. ONLY NON-CHLORINE BLEACH IF NEEDED.
+_ TUMBLE DRY LOW. REMOVE PROMPTLY. DO NOT IRON.
+
+| DO NOT DRY CLEAN. 2
+
+",1.3431023102310229
+tag_5.JPG,cropped,original,,Vietnam,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,"DO NOT AY i ORY FLAT, Ne eA JAVELISER, SECHER A PLAT, some KAGE DOUX SI A NECESSAIRE, OU NETTOYER SEC","Machine wash cold with like colours, do not bleach, dry flat, cool iron only if needed, or dry clean",False,0.3283582089552239,mismatch,70.15384615384616,"saacaenee wast COLD WITH LIKE
+COLOURS, DO NOT AY i
+ORY FLAT, Ne eA
+LAVER A LA MACHINE A LTEAU
+FROIDE AVEC COULEURS
+SEMBLABLES, NE PAS
+JAVELISER, SECHER A PLAT,
+
+some KAGE DOUX SI A
+NECESSAIRE, OU NETTOYER
+SEC
+",2.671641791044776
+tag_1.JPG,cropped,preprocessed,,Guatemala,False,0.0,prediction_failed,,100% Cotton,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,38.48623853211009,"— — = ae Sa -OS= = ——S
+[mae a —— pany re 3 mae’ ; — :
+: = — _ me - =
+A , — — : 7 eer => ~- oS ee
+= eT Ce = :
+a,
+= a 7 : =
+: _—- 3 3 :
+oar Sh eee 7 =
+ae Ny es eerie <= = 2: =
+— —, nner _f <n : +. ee 3 I : = —— rong ee i low. eae ae
+€ — = == — — —, eo
+Sears * a : = Se : =
+a 7 : = =
+Te z = Z
+eo ‘ee we ee —— re
+: 4
+z en
+: = ATS =
+: —_ $
+———- = — —- =
+
+oe. =, —— ~* = a — os _—, — —
+= Rae — =- == = en ae =
+: :
+— = ee
+—w #.
+eo > - => —w
+= 3
+a, es 5 et ces :
+od
+SSE
+: = —* G4 o
+9 =
+ee . ae to
+Ln
+ors aed
+
+er —
+—— —
+—
+: —,
+ee
+_*
+—
+ne”
+—,
+
+==
+== a
+a | oe
+: a ee
+F at ona
+ri
+
+",3.0
+IMG_8710.JPG,cropped,original,,cambodia,False,0.0,prediction_failed,"91% RECYCLED
+POLYESTER 8% WOOL 1% SPANDEX
+RN","91% recycled polyester, 8% wool, 1% spandex",False,0.9425287356321839,near_match,,not visible,False,0.0,prediction_failed,88.21428571428571,"91% RECYCLED
+POLYESTER/POLIESTER
+RECICLADO
+8% WOOL/LANA
+1% SPANDEX
+RN17730
+¥N1989869
+
+MADE IN CAMBODIA /
+",2.057471264367816
+IMG_8705.JPG,cropped,original,Cambodia,Cambodia,True,1.0,exact_match,"93% LYOCELL 7% SPANDEX
+EXCLUSIVE","93% lyocell, 7% spandex",False,0.8,partial_match,MACHINE WASH COLD SEPARATELY GENTLE CYCLE ONLY NON-CHLORINE BLEACH IF NEEDED TUMBLE DRY LOW REMOVE PROM COOL IRON IF NEEDED,machine wash cold sepearately gentle cycle only non-chlorine bleach if needed tumble dry low remove promptly cool iron if needed,False,0.9800796812749004,near_match,93.97058823529412,"Made in Cambodia
+Hecho en Camboya
+
+93% LYOCELL /
+7% SPANDEX
+EXCLUSIVE OF
+DECORATION
+
+MACHINE WASH
+COLD SEPARATELY
+GENTLE CYCLE
+ONLY
+NON-CHLORINE
+BLEACH IF NEEDED
+TUMBLE DRY LOW
+
+REMOVE PROM
+COOL IRON IF
+NEEDED
+",0.21992031872509954
+IMG_8711.JPG,cropped,original,,not visible,False,0.0,prediction_failed,100% COTTON 6% RECYCLED COTTON,100% cotton,False,0.5365853658536586,mismatch,MACHINE WASH COLD SEPARATELY. GENT ONLY NON-CHLORINE BLEACH IF NEEDED?” TUM DRY LOW. REMOVE PROMPTLY. WARM IRON IF NEEDED.,machine wash cold seperately. gentle cycle. only non-chlorine bleach if needed. tumble dry low. remove promptly. warm iron if needed,False,0.932806324110672,near_match,81.6,"100% COTTON (6% RECYCLED COTTON)
+iE CYCLE
+BLE
+
+EXCLUSIVE OF DECORATION
+MACHINE WASH COLD SEPARATELY. GENT
+
+ONLY NON-CHLORINE BLEACH IF NEEDED?” TUM
+DRY LOW. REMOVE PROMPTLY. WARM IRON IF
+
+NEEDED.
+",1.5306083100356696
+tag_2.JPG,cropped,original,,Guatemala,False,0.0,prediction_failed,,100% Cotton,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,35.60909090909091,"WN,
+nh
+
+é
+
+We
+
+1s t
+’
+4 yy
+ua
+Wy tid
+
+qu
+ergest
+
+y)
+
+= Boo
+a eee
+
+i re] Wit
+Vall
+, A at
+plitelel |
+ay tear
+i ty
+jpiy ee
+i? ,
+9)
+
+Hecho
+
+\ ;
+|
+\
+)
+}
+|
+|
+:
+|
+
+any
+ty
+‘
+
+|
+
+}
+
+ttoniCot
+
+\
+1
+j
+
+\
+
+|
+on .
+7,
+
+ve
+
+}
+. |
+)
+Pa rereree
+O09
+. shat
+
+}
+}
+'
+
+\
+
+,
+)
+
+ote a =
+ae aq Z -
+comet See oe
+a? 4 . :
+2S hype Pen 3 bee Phe
+fy qt. Pee oe ie on™
+
+",3.0
+IMG_8707.JPG,cropped,original,"CAMBODIA
+en gg BROKAVA",cambodia,False,0.5333333333333333,mismatch,"90% COTTON 40% SPANDEXISPANDEX
+
+EXCLUSIVE","90% cotton, 10% spandex",False,0.6666666666666666,mismatch,,not visible,False,0.0,prediction_failed,46.608695652173914,"90% COTTON/ALGODON
+40% SPANDEXISPANDEX
+
+EXCLUSIVE OF DECORATION
+NO INCLUYE LA DECORACION
+
+Pv a ete Ed
+tea ""9 are an
+‘ 4
+ayvure yf .
+' eth
+retcuet
+,
+5 soar Oy
+' t , oa
+. A ays
+
+MADE IN CAMBODIA
+en gg BROKAVA
+
+",1.8
+IMG_8713.JPG,cropped,original,,Nicaragua,False,0.0,prediction_failed,77% RECYCLED POLYESTER 11% LYOCELL 12% SPANDEX MACHINE,"77% recycled polyester, 11% lyocell, 12% spandex",False,0.9019607843137255,near_match,MACHINE WASH COLD WHH UKE COLORS. ONLY NON-CHLORINE BLEACH: IF NEEDED. TUMBLE DRY. LOW: REMOVE PROMPTLY. COOLIRON IF NEEDED. DO-NOT YRON ON LABEL. RN17730 VN1068795:,machine wash cold with like colors. only non-chlorine bleach if needed. tumble dry low. remove promptly. cool iron if needed. do not iron on label,False,0.887459807073955,partial_match,69.34210526315789,"77% RECYCLED POLYESTER/ 11% LYOCELL ¢
+12% SPANDEX MACHINE WASH COLD WHH
+UKE COLORS. ONLY NON-CHLORINE BLEACH:
+IF NEEDED. TUMBLE DRY. LOW: REMOVE
+PROMPTLY. COOLIRON IF NEEDED. DO-NOT
+YRON ON LABEL. RN17730 VN1068795:
+
+MADE IN NICARAGUA.
+
+*
+*
+",1.2105794086123196
+IMG_8539.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,machine wash cold gentle cycle with like colors. Non-chlorine bleach only. Tumble dry low. Warm iron as needed.,False,0.0,prediction_failed,95.0,,3.0
+IMG_8712.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"77% RECYCLED POLYESTER 11% NYLON 8% WOOL 4% SPANDEX
+
+TURN","77% recycled polyester, 11% nylon, 8% wool, 4% spandex",False,0.9272727272727272,near_match,"MACHINE WASH COLD WITH LIKE COLORS, GENTLE CYCLE ONLY NON-CHLORINE BLEACH IF NEEDED RESHAPE AND LAY FLAT TO DRY COOL IRON IF NEEDED",turn garment inside out. machine wash cold with like colors. gentle cycle. only non-chlorine bleach if needed. reshape and lay flat to dry. cool iron if needed,False,0.896551724137931,partial_match,94.6923076923077,"77% RECYCLED POLYESTER / 11% NYLON / 8% WOOL /
+4% SPANDEX
+
+TURN GARMENT INSIDE OUT
+
+MACHINE WASH COLD WITH LIKE COLORS, GENTLE CYCLE
+ONLY NON-CHLORINE BLEACH IF NEEDED
+
+RESHAPE AND LAY FLAT TO DRY
+
+COOL IRON IF NEEDED
+",1.1761755485893417
+IMG_8706.JPG,cropped,original,,Vietnam,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+tag_3.JPG,original,preprocessed,,not visible,False,0.0,prediction_failed,,"50% Modal, 50% Cotton",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8629.JPG,cropped,preprocessed,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,dry clean,False,0.0,prediction_failed,95.0,,3.0
+IMG_8615.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,100% Cashmere,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,39.0,".
+
+ve
+
+.
+
+we NS,
+ar yen
+
+W arene
+
+\
+\
+
+",3.0
+IMG_8601.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"100% CASHMERE
+
+DRY",100% Cashmere,False,0.8666666666666667,partial_match,DRY CLEAN OR HAND WASH CGLD DO NOT TWIST OR WRING DO NOT BLEACH SHAPE ANI > LAY,dry clean or hand wash cold do not twist or wring do not bleach reshape and lay flat to dry warm iron if needed,False,0.7894736842105263,partial_match,84.1304347826087,"100% CASHMERE
+
+DRY CLEAN
+
+OR HAND WASH CGLD
+DO NOT TWIST OR WRING
+DO NOT BLEACH
+SHAPE ANI > LAY
+
+",1.343859649122807
+IMG_8588.JPG,cropped,original,,Peru,False,0.0,prediction_failed,,"52% Modal, 24% Polyester, 24% Cotton",False,0.0,prediction_failed,"Machine Wash Gold With Like ‘Colors. Non-Chlorine Bleach ‘Only. Mee yLow. Iron ""ye oe ~ to","Machine wash cold with like colors, non-chlorine bleach only, tumble dry low, iron on lowest setting",False,0.8,partial_match,44.421052631578945,"He)
+
+rique )
+
+i aa dal fe: ay odel
+24%, «Paves Pa ter /
+| hehe ee
+AS CAF IL Ipoliester :
+‘24%: Cotton seh :
+; Baumwolle /Katoen /AB /_ F
+; AIGOGON ites
+"" Machine Wash Gold With Like
+‘Colors. Non-Chlorine Bleach
+‘Only. Mee yLow. Iron
+
+""ye
+oe
+~
+
+to
+
+",2.2
+IMG_8563.JPG,cropped,original,VIETNAM,Vietnam,True,1.0,exact_match,,not visible,False,0.0,prediction_failed,DRY CLEAN ONLY. NETTOYAGE A SEC SEULEMENT.,dry clean only,False,0.509090909090909,mismatch,94.15384615384616,"DRY CLEAN ONLY.
+NETTOYAGE A SEC SEULEMENT.
+
+MADE IN VIETNAM
+FABRIQUE AU VIETNAM
+",1.490909090909091
+IMG_8577.JPG,original,original,,USA,False,0.0,prediction_failed,,"88% Tencel Lyocell, 12% Spandex",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,55.5,"IN USA / HECHO EN EEUU /
+WE AUXETATS-UNIS
+
+",3.0
+IMG_8589.JPG,original,original,,China,False,0.0,prediction_failed,,"90% Recycled Cashmere, 10% Cashmere",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,75.125,"YCLED CASHMERE /
+RE aie / CASHMERE
+
+",3.0
+IMG_8600.JPG,cropped,original,,not visible,False,0.0,prediction_failed,100% COTTON,100% Cotton,True,1.0,exact_match,,Dry clean only,False,0.0,prediction_failed,47.27272727272727,"100% COTTON
+= me | ge —< NON LY
+
+",2.0
+IMG_8614.JPG,cropped,original,,China,False,0.0,prediction_failed,"52%VISCOSE 28%POLVESTER 20%NYLON
+EXCLUSIV 28% SLYESTER 28% oe NYLON","52% viscose, 28% polyester, 20% nylon",False,0.5961538461538461,mismatch,,hand wash separately in cold water do not bleach lay flat to dry do not iron,False,0.0,prediction_failed,63.794117647058826,"é ett Oue EN SHINE
+cay ECHO EN CHI INA
+
+US 52%VISCOSE
+28%POLVESTER 20%NYLON
+EXCLUSIV ye F TRIMS
+
+st oan’ OSE
+28% SLYESTER 2 NYLON
+HORS GARNI
+
+MX
+28% oe NYLON
+EXCLUYENDO ADORNOS
+
+",2.4038461538461537
+IMG_8628.JPG,cropped,preprocessed,,not visible,False,0.0,prediction_failed,,100% Cashmere,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8602.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,"49% Rayon, 31% Polyester, 20% Nylon",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8616.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,Dry clean only,False,0.0,prediction_failed,95.0,,3.0
+IMG_8574.JPG,cropped,original,,India,False,0.0,prediction_failed,,100% Organic Cotton,False,0.0,prediction_failed,,"Machine wash cold with like colors, tumble dry low, do not bleach",False,0.0,prediction_failed,95.0,,3.0
+IMG_8560.JPG,cropped,original,,China,False,0.0,prediction_failed,,"70% Rayon, 30% Polyester",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8561.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"100% POLYESTER
+LINING 100% POLYESTER
+TRONC 100% POLYESTER
+
+DOUBLURE 100% POLYESTER
+CA",100% Polyester,False,0.2857142857142857,mismatch,,not visible,False,0.0,prediction_failed,93.3125,"BODY: 100% POLYESTER
+LINING: 100% POLYESTER
+TRONC: 100% POLYESTER
+
+DOUBLURE: 100% POLYESTER
+CA 23725 RN 122354
+",2.7142857142857144
+IMG_8575.JPG,cropped,original,,Cambodia,False,0.0,prediction_failed,53%cotton,"53% Cotton, 47% Polyester, 49% Cotton, 49% Polyester, 2% Spandex",False,0.2465753424657534,mismatch,,not visible,False,0.0,prediction_failed,32.142857142857146,"53%cotton/A
+47% »sPolyestet/ Polyester
+Rib/costilla:
+4g%Cotton/Algoden
+AQ%Polyestel/ Polyester
+2xSpandex/ Elasthanne
+
+oECORATION |
+
+Beyer
+DECORATION
+
+Sd nti!
+
+“RN50369 a
+STE 2920 a
+",2.7534246575342465
+IMG_8617.JPG,cropped,original,,China,False,0.0,prediction_failed,"70% RAYON 356% YLON
+EXCLUSIVE","70% Rayon, 30% Nylon",False,0.6938775510204082,mismatch,,"Turn garment inside out, hand wash cold, do not bleach, lay flat to dry, warm iron if needed, do not iron on decoration",False,0.0,prediction_failed,36.93333333333333,"70% RAYON
+356% YLON
+EXCLUSIVE GF
+GStLakATiin
+EN 7533775
+
+'NSiGE Gir
+HAND WSN CHLG
+S38 HET SitncH
+i AY FLAY T5 GRY
+LENS inn
+| ‘op si [RON GN
+
+OECORATION
+",2.306122448979592
+IMG_8603.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,WASH DRY FL AT. IRON AT LOW TEMPERATURE,"machine wash separately in cold water, do not bleach, dry flat, iron at low temperture",False,0.576,mismatch,62.1,"ae “anata WASH
+DRY FL AT.
+IRON AT LOW
+
+TEMPERATURE
+",2.424
+IMG_8607.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,"MACHINE WASH COLD WITH LIKE COLORS WITH LD DETERGENT avec des couleurs doux ‘ONLY NON-GHLORINE BLEACH WHEN NEEDED _ Utiliser uniquement un agent blanchissant non TUMBLE DRY. LOW, R EMOVE PROMPTLY. temperatut Gy neh AL rapidement Se ‘ \ GOOLIRON IF NEEDED ~","Machine wash cold with like colors with mild detergent, only non-chlorine bleach when needed, tumble dry low remove promptly, iron cool if needed, or dry clean",False,0.6506024096385542,mismatch,72.0,"MACHINE WASH COLD
+WITH LIKE COLORS WITH
+LD DETERGENT
+
+Laver en machine a froid
+avec des couleurs
+
+Similaires avec détergent
+doux
+
+‘ONLY NON-GHLORINE
+
+BLEACH WHEN NEEDED
+_ Utiliser uniquement un
+agent blanchissant non
+_décolorant si besoin: est.
+
+TUMBLE DRY. LOW, R
+
+EMOVE
+PROMPTLY.
+Sécher en machine a be basse
+temperatut Gy neh AL
+
+rapidement Se ‘ \
+GOOLIRON IF NEEDED ~
+
+fe passat Adee RN
+
+",2.3493975903614457
+IMG_8613.JPG,original,original,,not visible,False,0.0,prediction_failed,60% COTTON 40% POLYESTER,"60% Cotton, 40% Polyester",False,0.9795918367346939,near_match,"WASH ONCE BEFORE WEARING TURA GARMENT INSIDE OUT, MACHINE WASH COLD WITH LIKE COLORS, NON-CHy CH WHEN NEEDED, TUMBLE p 10H WARM IRON IF NEEDED. 9 nor \}","Wash garment once before wearing, turn garment inside out, machine wash cold with like colors, non-chlorine bleach when needed, tumble dry low, warm iron if necessary, do not dry clean.",False,0.8273809523809523,partial_match,73.05263157894737,"60% COTTON) COTON/
+‘ALGODON
+40% POLYESTER/ POLIESTER
+
+WAD at
+
+AGAS
+WASH ONCE BEFORE WEARING TURA
+GARMENT INSIDE OUT, MACHINE WASH
+
+COLD WITH LIKE COLORS, NON-CHy
+CH WHEN NEEDED, TUMBLE p
+
+10H WARM IRON IF NEEDED. 9 nor
+
+\}
+",1.1930272108843538
+IMG_8571.JPG,cropped,original,CHINA,China,True,1.0,exact_match,"100% COTTON
+LINING 100% POLYESTER
+MADE","100% Cotton, 100% Polyester",False,0.8,partial_match,,not visible,False,0.0,prediction_failed,95.11111111111111,"SELF:
+100% COTTON
+LINING:
+100% POLYESTER
+MADE IN CHINA
+",1.2
+IMG_8565.JPG,original,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,Hand wash or __ = Hae wasn fase 4 : - a¢ > wULee hs eT lk,"hand wash or machine wash gentle cycle in cold water, do not bleach, lay flat to dry, iron warm if necessary",False,0.3515151515151515,mismatch,37.629629629629626,"r
+tA
+peak dee na
+2
+Y
+
+“Hand wash or __ =
+Hae wasn
+
+fase
+
+4 : -
+
+a¢
+
+>
+
+wULee hs eT lk
+",2.6484848484848484
+IMG_8559.JPG,original,original,,USA,False,0.0,prediction_failed,"96% COTTON 4% SPANDEX
+
+DW","96% Cotton, 4% Spandex",False,0.9130434782608695,near_match,MACHINE WASH COLD DO NOT BLEACH ; WASH WITH LIKE COLORS TUMBLE DRY LOW WARM IRON OK e e,"machine wash cold, do not bleach, wash with like colors, tumble dry low, warm iron ok",False,0.9418604651162791,near_match,82.15625,"a
+: ae
+
+96% COTTON 4% SPANDEX
+
+DW wz
+MACHINE WASH COLD
+DO NOT BLEACH ;
+WASH WITH LIKE COLORS
+
+TUMBLE DRY LOW
+WARM IRON OK
+
+e
+
+e
+",1.1450960566228514
+IMG_8564.JPG,cropped,original,,Bangladesh,False,0.0,prediction_failed,,"70% Viscose, 30% Polyamide",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8570.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"31% POLYESTER 48% NYLON 3% ELASTANE 48% VISCOSE 31% POLYESTER 48% NYLON 3% ELASTHANNE
+CA","48% Viscose, 31% Polyester, 18% Nylon, 3% Elastane",False,0.6666666666666666,mismatch,,not visible,False,0.0,prediction_failed,92.35,"4B% VISCOSE, 31% POLYESTER,
+48% NYLON, 3% ELASTANE
+48% VISCOSE, 31% POLYESTER,
+48% NYLON, 3% ELASTHANNE
+CA 23725 RN 122354
+",2.3333333333333335
+IMG_8612.JPG,cropped,original,VIETNAM,made in Vietnam,False,0.6363636363636364,mismatch,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,91.33333333333333,"MADE IN VIETNAM
+FABRIQUE AU VIETNAM
+HECHO EN VIETNAM
+",2.3636363636363638
+IMG_8606.JPG,cropped,original,PERU,Peru,True,1.0,exact_match,50% PIMA COTTON,"50% Pima Cotton, 50% Modal",False,0.7317073170731707,partial_match,,not visible,False,0.0,prediction_failed,64.8125,"50% PIMA COTTON/
+COTON PIMA -
+oth MODAL, MODAL
+
+M/M
+
+_ MADE IN PERU
+
+",1.2682926829268293
+IMG_8610.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,"83% Polyester, 12% Rayon, 5% Spandex",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,26.823529411764707,"IR TE ee ee et rat oh ap ubied ahd a
+
+BO RE eS A OM RENE
+
+er ae a gta
+
+Hi, Wh wk i hl -
+
+bre bet eet le
+
+el
+
+i POLYESTER
+
+PP
+
+Bt Tit
+
+95 3 8 eee ee
+
+i &
+
+ea a
+
+a2 SS eee
+",3.0
+IMG_8604.JPG,cropped,original,,China,False,0.0,prediction_failed,73% ACRYLIC 24% POLYESTER 3% SPANDEX,"73% acrylic, 24% polyester, 3% spandex",False,0.972972972972973,near_match,HAND WASH COLD SEPARATELY USE ONLY NON-CHLORINE BLEACH IF NEEDED RESHAPE AND LAY FLAT TO DRY USE LOW IRON IF NECESSARY,"hans wash cold separately, use only non-chlorine bleach if needed reshape and lay flat to dry use low iron if necessary",False,0.9873417721518988,near_match,83.9375,"|
+
+MADE IN CHINA
+73% ACRYLIC
+24% POLYESTER
+3% SPANDEX —
+
+HAND WASH COLD
+
+SEPARATELY
+USE ONLY NON-CHLORINE
+
+BLEACH IF NEEDED
+
+RESHAPE AND
+LAY FLAT TO DRY
+
+USE LOW IRON
+IF NECESSARY
+",1.039685254875128
+IMG_8599.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"100% CASHMERE
+
+DRY",100% Cotton,False,0.42857142857142855,mismatch,DRY CLEAN ‘OR HAND WASH COLD DO NOT TWIST OR WRING DO NOT BLEACH RESHAPE AND LAY FLAT TO DRY WARM IRON IF NEEDED,"Dry clean or hand wash cold, do not twist or wring, do not bleach, reshape and lay flat to dry, warm iron if needed",False,0.9779735682819384,near_match,85.4074074074074,"100% CASHMERE
+
+DRY CLEAN
+‘OR HAND WASH COLD
+DO NOT TWIST OR WRING
+DO NOT BLEACH
+RESHAPE AND LAY
+FLAT TO DRY
+WARM IRON IF NEEDED
+
+",1.593455003146633
+IMG_8573.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,MACHINE waSH COLD DO NOT BLEACH TUMBLE DRY LOW HEAT COOL \IRON,"Machine wash cold, do not bleach, tumble dry low heat, cool iron",False,0.9682539682539683,near_match,87.91666666666667,"MACHINE waSH COLD
+DO NOT BLEACH
+TUMBLE DRY LOW
+
+HEAT
+COOL \IRON
+",2.0317460317460316
+IMG_8567.JPG,cropped,original,,China,False,0.0,prediction_failed,,"80% Silk, 20% Nylon",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8611.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,MACHINE WASH COLD WITH LiKE COLORS SS GENTLE CYCLE 3 ee seers Ae oan \CH iF NEEDED,"turn garment inside out, machine wash cold with like colors, gentile cycle, only non-chlorine bleach when needed, tumble dry low, cool iron on reverse side if needed",False,0.5182186234817814,mismatch,61.72727272727273,"TURN GARMENT
+
+INSIDE OUT
+MACHINE WASH COLD
+WITH LiKE COLORS
+SS GENTLE CYCLE
+3 ee seers Ae
+oan \CH iF NEEDED
+
+",2.4817813765182186
+IMG_8608.JPG,cropped,original,TURKEY,Turkey,True,1.0,exact_match,"68% RAYON 43% METALLIC 5% ELASTANE 58% RAYONNE 24% POLYESTER 58% RA 24% eS 13% METALICO
+S","58% Rayon, 24% Polyester, 13% Metallic, 5% Elastane",False,0.5285714285714286,mismatch,,not visible,False,0.0,prediction_failed,74.74193548387096,"68% RAYON
+
+‘ re POLYESTER
+43% METALLIC
+5% ELASTANE
+
+58% RAYONNE
+24% POLYESTER
+1 wy 4, METALLIQUE
+
+4 ELASTHANNE
+
+58% RA
+24% eS
+
+13% METALICO
+S% ELASTANO
+
+MADE IN TURKEY
+
+",1.4714285714285715
+IMG_8620.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,"Hand wash cold, lay flat to dry or professional dry clean","hand wash cold, lay flat to dry or professional dry clean",True,1.0,exact_match,89.0,"Hand wash cold, lay flat
+to dry or professional
+dry clean
+",2.0
+IMG_8581.JPG,original,preprocessed,,not visible,False,0.0,prediction_failed,,"94% Rayon, 6% Elastane",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,25.596774193548388,"sagen iay!
+i seta Haiti
+Prot aRIN
+HARA BH a)
+ISTH
+
+t i i
+
+: f
+
+Tague
+Little f
+
+Hy na rl
+4
+
+nd | i
+wil
+
+UHH
+AGH
+SEY TOM HH
+
+é ieee
+(
+
+t ‘f
+diately
+
+Ht
+
+tei )
+
+Ii
+
+i
+ily
+
+;
+PAHHR HHT Pa a ead il
+RHUL HR HH HANUREM UNM MM
+
+hoo
+
+Mi
+",3.0
+IMG_8595.JPG,cropped,original,CHINA,China,True,1.0,exact_match,"400% POLYES TES 100% POLYESTER
+
+ETOFFE 100% POLYESTER
+DOUBLURE 100% POLYESTER
+
+TELA 100% POLIESTER
+
+FORRO 100% POLIESTER",100% Polyester,False,0.21374045801526717,mismatch,,not visible,False,0.0,prediction_failed,70.72,"SHELL.
+""400% POLYES TES
+LINING:
+100% POLYESTER
+
+ETOFFE EXTERIEURE:
+
+100% POLYESTER
+DOUBLURE:
+
+100% POLYESTER
+
+TELA EXTERIOR:
+100% POLIESTER
+
+FORRO:
+100% POLIESTER
+
+\ MADE IN CHINA
+",1.786259541984733
+IMG_8594.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,HAND WASH COLD DO NOT BLEACH LAY FLAT TO DRY YR ORY CLEAN,hand wash cold do not bleach lay flat to dry or dry clean,False,0.9649122807017544,near_match,83.46153846153847,"HAND WASH COLD
+DO NOT BLEACH
+LAY FLAT TO DRY
+
+YR ORY CLEAN
+",2.0350877192982457
+IMG_8621.JPG,cropped,original,,China,False,0.0,prediction_failed,,"73% Arylic, 24% Polyester, 3% Spandex",False,0.0,prediction_failed,HAND WASH COLD P SEPARATELY ‘ JSE ONLY NON-CHLORINE BLEACH IF NEEDED RESHAPE AND AY FLAT TO DRY IF NECESSARY,"hand wash cold separately, use only non-chlorine bleach if needed, reshape and lay flat to dry, use low iron if necessary",False,0.8995633187772926,partial_match,65.27777777777777,"MADE IN CHINA
+
+De TBRACRYLG
+
+yy Ra POLYESTER
+
+HAND WASH COLD
+
+P SEPARATELY ‘
+JSE ONLY NON-CHLORINE
+
+BLEACH IF NEEDED
+
+RESHAPE AND
+
+AY FLAT TO DRY
+
+IF NECESSARY
+
+",2.1004366812227073
+IMG_8609.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,HAND WASH COLD _DONOT BLEACH _ LAY FLAT TO DRY COOL IRON IF NEEDED,hand wash cold do not bleach lay flat to dry cool iron if needed,False,0.9692307692307692,near_match,61.666666666666664,"_ HAND WASH COLD
+_DONOT BLEACH
+
+_ LAY FLAT TO DRY
+COOL IRON IF NEEDED
+",2.0307692307692307
+IMG_8623.JPG,cropped,original,,China,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,"hand wash cold with like colors, lay flat to dry, do not bleach, do not tumble dry, cool iron if needed",False,0.0,prediction_failed,95.0,,3.0
+IMG_8596.JPG,cropped,original,CHINA,China,True,1.0,exact_match,"52% VISCOSE 36% NYLON 12% POLYESTER
+MACHINE","52% Viscose, 36% Nylon, 12% Polyester",False,0.875,partial_match,MACHINE WASH COLD WITH LIKE COLORS ONLY NON-CHLORINE BLEACH WHEN NEEDED TUMBLE DRY LOW WARM IRON IF NECESSARY,machine wash cold with like colors only non-chlorine bleach tumble dry low warm iron if necessary,False,0.941747572815534,near_match,94.5925925925926,"52% VISCOSE
+36% NYLON
+12% POLYESTER
+MACHINE WASH COLD
+WITH LIKE COLORS
+ONLY NON-CHLORINE
+BLEACH WHEN NEEDED
+TUMBLE DRY LOW
+WARM IRON IF NECESSARY
+MADE IN CHINA
+",0.183252427184466
+IMG_8582.JPG,original,original,,Canada,False,0.0,prediction_failed,,"50% MicoModal, 50% Suprima Cotton",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8569.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,"57% Viscose, 43% Polyester",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,37.411764705882355,"wo, WISOCOGK, b% POLVESTER
+EMO LMoIVE OF ELASTIC
+
+KT, VISOOSE, Adit POLYESTER
+
+A ELANGION DE ELAS TIQUE
+",3.0
+IMG_8568.JPG,cropped,original,,China,False,0.0,prediction_failed,,,True,1.0,both_none,"DO NOT BLEACH, RESHAPE WHILE DAMP, DRY FLAT, COOL IRON ONLY IF NEEDED, OR DRY CLEAN. REMODELER PENDANT QUE ARTICLE EST ENCORE HUMIDE, DOUX SI NECESSAIRE, OU NETTOYER A SEC.","Hand wash cold, do not bleach, reshape while damp, dry flat, cool iron only if needed, or dry clean",False,0.6148148148148148,mismatch,85.58928571428571,"HA H COLD, DO NOT
+BLEACH, RESHAPE WHILE DAMP,
+DRY FLAT, COOL IRON ONLY IF
+NEEDED, OR DRY CLEAN.
+LAVER ALA MAIN A L'EAU
+FROIDE, NE PAS JAVELISER,
+REMODELER PENDANT QUE
+ARTICLE EST ENCORE HUMIDE,
+SECHER A PLAT, REPASSAGE
+DOUX SI NECESSAIRE, OU
+NETTOYER A SEC.
+
+MADE IN CHINA
+
+;
+.
+;
+“4 FABRIQUE EN CHINE
+",1.3851851851851853
+IMG_8583.JPG,cropped,original,,China,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,"Hand wash cold, do not bleach, reshape while damp, dry flat, cool iron only if needed, or dry clean",False,0.0,prediction_failed,62.476190476190474,"ee AP S WHILE DAMP,
+| IRON ONLY IF
+
+ERS ALA MAIN A L ""EAU
+
+7 bs Ne PAS JAVELISER,
+
+ELER PENDANT QUE
+
+EST ENQORE HUMIDE,
+
+\ PLAT, REPASSAGE
+SiNeccsaane aed
+",3.0
+IMG_8622.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,"60% Cotton, 40% Polyester",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8626.JPG,cropped,preprocessed,,China,False,0.0,prediction_failed,,"51% Rayon, 28% Polyester, 21% Nylon",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,39.231884057971016,"nw hep ® form
+
+Olt
+BRA ind
+
++1
+‘
+eyes. se
+be
+:
+Ae
+‘ »
+;
+
+tile
+
+oa
+.
+
+te
+>
+
+ro a rr a
+tae ae dg bua tp bes
+We Diced Gg tN) ah
+
+2,
+
+{
+!
+
+pitied t
+| “ | HA, I to iy
+3
+
+eel Gd Whew Nat f
+
+",3.0
+IMG_8593.JPG,cropped,original,,China,False,0.0,prediction_failed,"50% ACRYLICIACRY
+
+te","50% Merino Wool, 50% Acrylic",False,0.46808510638297873,mismatch,,not visible,False,0.0,prediction_failed,45.904761904761905,"Ph
+
+i gO%MERINO WORT
+IQUE
+
+7 G é
+Ws
+
+~~ LAINEMERINOS
+50% ACRYLICIACRY
+
+te %&
+
+RNH154138
+MADE IN CHINA”
+",2.5319148936170213
+IMG_8587.JPG,cropped,original,,USA,False,0.0,prediction_failed,"100% COTTON
+oy",100% Cotton,False,0.88,partial_match,,"Machine wash cold, gentle cycle, tumble dry low, light iron",False,0.0,prediction_failed,70.0625,"RN # 123722
+100% COTTON
+oy ya hag
+
+CO
+GENTLE CYCLE
+og gl LOW
+
+",2.12
+IMG_8579.JPG,cropped,original,,China,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,"MACHINE WASH COLD WITH LIKE COLOURS, ONLY NON-CHLORINE BLEACH WHEN NEEDED, TUMBLE DRY LOW, COOL IRON ONLY IF NEEDED, DO NOT DRY CLEAN SEMBLABLES, UTILISER SEULEMENT UN JAVELLISANT SANS CHLORE AU BESOIN,","Machine wash cold with like colours, only non-chlorine bleach when needed, tumble dry low, cool iron only if needed, do not dry clean",False,0.7964071856287425,partial_match,92.5,"MACHINE WASH COLD WITH LIKE
+COLOURS, ONLY
+NON-CHLORINE BLEACH WHEN
+NEEDED, TUMBLE DRY LOW,
+COOL IRON ONLY IF NEEDED,
+DO NOT DRY CLEAN
+LAVER A LA MACHINE A L’EAU
+FROIDE AVEC COULEURS
+SEMBLABLES, UTILISER
+SEULEMENT UN JAVELLISANT
+SANS CHLORE AU BESOIN,
+
+",2.2035928143712575
+IMG_8586.JPG,cropped,original,,not visible,False,0.0,prediction_failed,40% Acryhe f,"60% Cotton, 40% Acrylic",False,0.45714285714285713,mismatch,,not visible,False,0.0,prediction_failed,34.51851851851852,"ty att HUA Biel
+F ia he a rly eee
+
+pile
+
+i
+, is
+
+Pw ae ee
+
+40% Acryhe f pee f 11 Polyacry!
+Acrylique
+",2.5428571428571427
+IMG_8592.JPG,cropped,original,,Vietnam,False,0.0,prediction_failed,,100% Merino Extra Fine Wool,False,0.0,prediction_failed,WASHING / WASH IN MEsi4,"Machine wash cold gentle cycle, close all fasteners before washing, wash in mesh bag, use mild detergent, wash separately, only non-chlorine bleach when needed, reshape and dry flat, cool iron",False,0.18604651162790697,mismatch,73.3157894736842,"MACHINE W
+
+1166
+| ASH COLD GENTLE
+CYCLE / CLOSE ALL FASTENERS
+TRE WASHING / WASH IN MEsi4
+",2.813953488372093
+IMG_8627.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,machine wash cold separately gentle cycle do not bleach lay flat to dry cool iron if needed,False,0.0,prediction_failed,95.0,,3.0
+IMG_8625.JPG,cropped,original,,not visible,False,0.0,prediction_failed,80% RAVONIVISCOSE,"80% Rayon, 20% Nylon",False,0.4864864864864865,mismatch,,"hand wash separately in cold water, do not bleach, lay flat do dry, iron on lowest setting as needed",False,0.0,prediction_failed,31.333333333333332,"= =
+
+80% RAVONIVISCOSE!
+COSCO nS
+
+=
+
+. = Se x
+",2.5135135135135136
+IMG_8619.JPG,cropped,original,CHINA,China,True,1.0,exact_match,3%Rayon 32%Nylon 5%Spandex,"63% Rayon, 32% Nylon, 5% Spandex",False,0.896551724137931,partial_match,,not visible,False,0.0,prediction_failed,78.33333333333333,"B3%Rayon//Raydn
+
+Kunstseide/Raion
+
+32%Nylon//Nylon
+Nylon/Nylon
+
+5%Spandex/Elastano
+/Elastan/Elastan
+
+MADE IN CHINA
+",1.103448275862069
+IMG_8584.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"19%
+COTTON 1% ELASTANE
+RPS 55% LAINE MERINGS 25%
+NYLON RECYCLE 20% COTON
+GARNITURE 52% LAME
+MERINOS 28% NYLON RECYOLE","55% Merino Wool, 25% Recycled Nylon, 20% Cotton",False,0.0975609756097561,mismatch,,not visible,False,0.0,prediction_failed,66.5945945945946,"CReLvoED NYLON, 19%
+COTTON, 1% ELASTANE
+RPS: 55% LAINE MERINGS, 25%
+NYLON RECYCLE, 20% COTON
+GARNITURE COTELEE: 52% LAME
+MERINOS, 28% NYLON RECYOLE
+
+lly GCOTON, W% ELASTHANWE
+|) GA P8725 RN 122354
+
+",2.902439024390244
+IMG_8590.JPG,cropped,preprocessed,,Cambodia,False,0.0,prediction_failed,,"80% Cotton, 20% Polyester, 98% Cotton, 2% Spandex",False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,95.0,,3.0
+IMG_8591.JPG,cropped,original,,Philippines,False,0.0,prediction_failed,65% Polyester 9% Elastane,"65% Polyester, 33% Viscose, 2% Elastane",False,0.75,partial_match,Machine Wash Cold With Like :,"Machine wash cold with like colors, non-chlorine bleach only, tumble dry low, iron on lowest setting",False,0.43410852713178294,mismatch,66.08571428571429,"“Hergestolt in Den Philiopinen
+-. Vervaardigd in De Filippiinen
+| FAVEVR
+
+r hecho en filipinas
+65% Polyester /Polyester /
+\ Polyester /Polyester /
+(3 | AR TAF JL /poliéster
+‘: 23%, Viscose /Viscose /
+L- Viskose /Viscose /
+; L—S4y viscosa
+i 9% Elastane /Elasthanne /
+; Elastan /Elastaan /
+, HiUOLS~ /elastano ;
+| s Machine Wash Cold With Like :
+
+",1.8158914728682172
+IMG_8585.JPG,cropped,original,,China,False,0.0,prediction_failed,,100% Cashmere,False,0.0,prediction_failed,,"Hand wash cold separately, non-chlorine bleach only, reshape and lay flat to dry, iron on lowest setting",False,0.0,prediction_failed,48.925,"eee ee
+
+i ive sive OFF Elastic (Sat Sans
+sie ne uMMizu
+salve Clastick PRAIRM &
+yoxouyeo al elastico
+Cold Separately:
+Bleach Only.
+Ane La hon To Dry:
+
+< ey Ee
+th!
+
+Perea ee I
+",3.0
+IMG_8618.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"30% POLYESTER
+
+RN","70% Rayon, 30% Polyester",False,0.65,mismatch,MACHINE WASH COLD GENTLE CYCLE WITH LIKE COLORS DO NOT BLEACH RESHAPE AND DRY FLAT COOL IRON IF NEEDED OR DRY CLEAN,machine wash cold gentile cycle with like colors do not bleach reshape and dry flat cool iron if needed or dry clean,False,0.9956709956709957,near_match,93.39285714285714,"70%. RAYON
+30% POLYESTER
+
+RN 165979
+
+MACHINE WASH
+COLD
+GENTLE CYCLE
+WITH LIKE COLORS
+DO NOT BLEACH
+RESHAPE AND
+DRY FLAT
+COOL IRON
+IF NEEDED
+OR DRY CLEAN
+",1.3543290043290044
+IMG_8624.JPG,cropped,original,,China,False,0.0,prediction_failed,"100% CASHMERE
+
+DRY",100% Cashmere,False,0.8666666666666667,partial_match,DRY CLEAN ONLY. DEIN CHINA,dry clean only,False,0.7,mismatch,94.2,"100% CASHMERE
+
+DRY CLEAN ONLY.
+
+DEIN CHINA
+
+",1.4333333333333333
+IMG_8697.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"90% RECYCLED POLYESTER 8% WOOL 2% SPANDEX
+
+MACHINE","90% recycled polyester, 8% wool, 2% spandex",False,0.8913043478260869,partial_match,MACHINE WASH COLD WITH LIKE COLORS GENTLE CYCLE ONLY NON-CHLORINE BLEACH IF NEEDED LAY FLAT TO DRY WARM IRON IF NEEDED RN17730 VN1268582,machine wash cold with like colors. only non-chlorine bleach if needed. lay flat to dry. warm iron if needed.,False,0.860655737704918,partial_match,94.625,"90% RECYCLED POLYESTER / 8% WOOL /
+2% SPANDEX
+
+MACHINE WASH COLD WITH LIKE COLORS
+GENTLE CYCLE
+
+ONLY NON-CHLORINE BLEACH IF NEEDED
+LAY FLAT TO DRY
+
+WARM IRON IF NEEDED
+
+RN17730 VN1268582
+",1.248039914468995
+IMG_8708.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,"99% recycled polyester, 1% spandex",False,0.0,prediction_failed,MACHINE WASH COLD {UKE COLORS. ONLY NON nap BLEACH IF NEEDED. TUMBLE DF VOW. REMOVE PROMPTLY. COOL IRON IF NE :,machine wash cold with like colors. only non-chlorine bleach if needed. tumble dry low. remove promptly. cool iron if needed,False,0.8680851063829788,partial_match,74.69565217391305,"x
+
+Dubie
+MACHINE WASH COLD {UKE COLORS. ONLY
+NON nap BLEACH IF NEEDED. TUMBLE DF
+VOW. REMOVE PROMPTLY. COOL IRON IF NE :
+",2.1319148936170214
+IMG_8709.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"61% RECYCLED POLYESTER 35% RAYON 4% SPANDEX
+EXCLUSIVE","61% recycled polyester, 35% rayon, 4% spandex",False,0.8775510204081632,partial_match,"MACHINE WASH COLD WITH LIKE COLORS GENTLE CYCLE ONLY NON-CHLORINE BLEACH IF NEEDED TUMBLE DRY LOW, REMOVE PROMPTLY COOL IRON IF NEEDED",machine wash cold with like colors. only non-chlorine bleach if needed. tumble dry low. remove promptly. cool iron if needed,False,0.9302325581395349,near_match,93.88235294117646,"61% RECYCLED POLYESTER / 35% RAYON / 4% SPANDEX
+EXCLUSIVE OF DECORATION
+
+MACHINE WASH COLD WITH LIKE COLORS
+
+GENTLE CYCLE
+
+ONLY NON-CHLORINE BLEACH IF NEEDED
+
+TUMBLE DRY LOW, REMOVE PROMPTLY
+COOL IRON IF NEEDED
+",1.192216421452302
+IMG_8696.JPG,cropped,preprocessed,,not visible,False,0.0,prediction_failed,,"55% cotton, 45% viscose",False,0.0,prediction_failed,,"turn garment inside out. machine wash cold with like colors. gentle cycle. only non-chlorine bleach if needed. tumble dry low, cool iron if needed",False,0.0,prediction_failed,95.0,,3.0
+IMG_8693.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"95% VISCOSE 45% NYLON
+
+MACHINE","55% viscose, 45% nylon",False,0.7843137254901961,partial_match,MACHINE WASH COLD WITH LIKE COLORS. GENTLE CYCLE. ONLY NON-CHLORINE BLEACH IF NEEDED. LAY FLAT TO DRY. WARM IRON IF NEEDED. RN17730 VN1268582,machine wash cold with like colors. gentle cycle. only non-chlorine bleach if needed. lay flat to dry. warm iron if needed.,False,0.9277566539923955,near_match,94.17857142857143,"95% VISCOSE / 45% NYLON
+
+MACHINE WASH COLD WITH LIKE COLORS. GENTLE
+CYCLE. ONLY NON-CHLORINE BLEACH IF NEEDED. LAY
+FLAT TO DRY. WARM IRON IF NEEDED.
+
+RN17730 VN1268582
+",1.2879296205174087
+IMG_8691.JPG,cropped,original,,not visible,False,0.0,prediction_failed,"95% NYLON 5% SPANDEX
+LINING 100% RECYCLED POLYESTER","95% nylon, 5% spandex, 100% recycled polyester",False,0.9072164948453608,near_match,WASH INSIDE OUT. MACHINE WASH COLD SEPARATELY. GENTLE CYCLE. ONLY NON-CHLORINE BLEACH IF NEEDED. TUMBLE DRY LOW. REMOVE PROMPTLY. 00 NOT IRON. RN17730. VN1989909,wash inside out. machine wash cold separately. gentle cycle. only non-chlorine bleach if needed. tumble dry low. remove promptly. do not iron.,False,0.9205298013245033,near_match,86.05714285714286,"SHELL: 95% NYLON / 5% SPANDEX
+LINING : 100% RECYCLED POLYESTER
+
+WASH INSIDE OUT. MACHINE WASH COLD SEPARATELY.
+GENTLE CYCLE. ONLY NON-CHLORINE BLEACH IF
+NEEDED. TUMBLE DRY LOW. REMOVE PROMPTLY. 00
+NOT IRON.
+
+RN17730. VN1989909
+",1.172253703830136
+IMG_8690.JPG,cropped,original,,not visible,False,0.0,prediction_failed,,not visible,False,0.0,prediction_failed,,"hand wash cold, wash colors separately, use approved detergent, do not bleach, do not soak, do not wring, do not tumble dry, dry flat in shade, cool iron on reverse, fold to store, dry cleanable",False,0.0,prediction_failed,95.0,,3.0
