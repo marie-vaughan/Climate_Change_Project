@@ -6,9 +6,6 @@ from pathlib import Path
 from tqdm import tqdm
 from difflib import SequenceMatcher
 
-# ============================================================================
-# HELPER FUNCTIONS
-# ============================================================================
 
 def resize_if_needed(img, max_dimension=1920):
     """Resize image if too large"""
@@ -173,9 +170,6 @@ def compare_field(predicted, ground_truth):
     
     return exact, fuzzy, status
 
-# ============================================================================
-# MAIN EVALUATION FUNCTION
-# ============================================================================
 
 def evaluate_ocr_accuracy(tag_images_folder='tag_images', 
                          cropped_folder='cropped_tags',
@@ -394,9 +388,6 @@ def evaluate_ocr_accuracy(tag_images_folder='tag_images',
     
     return df
 
-# ============================================================================
-# USAGE
-# ============================================================================
 
 if __name__ == "__main__":
     # Run evaluation
@@ -415,7 +406,6 @@ if __name__ == "__main__":
         print(f"Open in Excel/pandas for detailed analysis")
 
 
-# ## **What Changed:**
 
 # 1. **Prioritizes cropped images:**
 #    - Checks if `IMG_001.JPG` exists in `cropped_tags/`

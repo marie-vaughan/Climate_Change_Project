@@ -63,11 +63,11 @@ def summarize_emissions():
     print(f"\n{'='*60}")
     print(f"ENVIRONMENTAL EQUIVALENTS")
     print(f"{'='*60}")
-    print(f"🚗 Miles driven: {total_emissions_kg*2.5:.2f} miles")
-    print(f"🌳 Trees needed (1 year): {total_emissions_kg*0.06:.2f} trees")
-    print(f"📱 Smartphone charges: {total_emissions_kg*120:.0f} charges")
-    print(f"💡 LED bulb hours: {total_energy_kwh/0.01:.0f} hours")
-    print(f"🏠 Home electricity (avg day): {total_energy_kwh/30:.2f} days")
+    print(f"Miles driven: {total_emissions_kg*2.5:.2f} miles")
+    print(f"Trees needed (1 year): {total_emissions_kg*0.06:.2f} trees")
+    print(f"Smartphone charges: {total_emissions_kg*120:.0f} charges")
+    print(f"LED bulb hours: {total_energy_kwh/0.01:.0f} hours")
+    print(f"Home electricity (avg day): {total_energy_kwh/30:.2f} days")
     
     # Save combined summary
     summary = {

@@ -76,7 +76,7 @@ train_ds.set_format(type="torch", columns=["pixel_values", "labels"])
 val_ds.set_format(type="torch",   columns=["pixel_values", "labels"])
 
 # ---------------------------------------------------------
-# 4️⃣  Training configuration
+#  Training configuration
 # ---------------------------------------------------------
 training_args = Seq2SeqTrainingArguments(
     output_dir="./trocr_tag_finetune",

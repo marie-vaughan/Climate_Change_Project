@@ -6,9 +6,6 @@ from pathlib import Path
 from tqdm import tqdm
 from difflib import SequenceMatcher
 
-# ============================================================================
-# HELPER FUNCTIONS
-# ============================================================================
 
 def resize_if_needed(img, max_dimension=1920):
     """Resize image if too large"""
@@ -171,9 +168,6 @@ def compare_field(predicted, ground_truth):
     
     return exact, fuzzy, status
 
-# ============================================================================
-# MAIN EVALUATION FUNCTION
-# ============================================================================
 
 def evaluate_ocr_accuracy(image_folder='tag_images', output_csv='ocr_evaluation.csv'):
     """
@@ -336,9 +330,6 @@ def evaluate_ocr_accuracy(image_folder='tag_images', output_csv='ocr_evaluation.
     
     return df
 
-# ============================================================================
-# USAGE
-# ============================================================================
 
 if __name__ == "__main__":
     # Run evaluation

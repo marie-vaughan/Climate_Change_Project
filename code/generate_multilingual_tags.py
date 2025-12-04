@@ -159,4 +159,4 @@ if __name__ == "__main__":
     generate_split("val", VAL_N)
     emissions = tracker.stop()
     logger.info(f"Data generation complete. Emissions: {emissions:.4f} kg CO2eq")
-    print(f"✅ Multilingual dataset created | Emissions: {emissions:.4f} kg CO2eq")
+    print(f" Multilingual dataset created | Emissions: {emissions:.4f} kg CO2eq")

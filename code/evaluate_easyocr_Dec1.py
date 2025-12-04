@@ -493,9 +493,6 @@ def evaluate_ocr_accuracy(tag_images_folder='tag_images',
     
     return df
 
-# ============================================================================
-# USAGE
-# ============================================================================
 
 if __name__ == "__main__":
     log_dir = "codecarbon_logs"

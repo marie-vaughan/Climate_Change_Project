@@ -11,9 +11,6 @@ import numpy as np
 from codecarbon import EmissionsTracker
 import os
 
-# ============================================================================
-# HELPER FUNCTIONS
-# ============================================================================
 
 def resize_if_needed(img, max_dimension=1920):
     """Resize image if too large"""
